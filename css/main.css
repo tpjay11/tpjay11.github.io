@@ -1,0 +1,21 @@
+body{
+	font-family: 'Lato', sans-serif;
+	background-color: rgb(19, 15, 14);
+	color: rgba(179, 129, 90, 0.9);
+	font-weight: 300;
+}
+.img-size{
+	width: 340px;
+    height: 200px;
+}
+.title-logo{
+	margin-top: 20px;
+}
+
+.title-super{
+	font-size: 50px;
+}
+
+.text-thin{
+	font-weight: 100;
+}
